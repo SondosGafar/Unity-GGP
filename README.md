@@ -247,14 +247,6 @@ Potential extensions include:
 - Persistent high scores and leaderboards
 - Additional character customization options
 
-## 🤝 Project Collaboration
-
-Skybound Runner is a collaborative Unity game development project.
-
-This repository is a fork of the [original Unity-GGP repository](https://github.com/Mariam-Elbishbeashy/Unity-GGP).
-
-The project covers gameplay design, 3D interactions, navigation, user interface flow, and core game mechanics.
-
 ## 🏁 Conclusion
 
 Skybound Runner demonstrates the development of an interactive 3D platform-running game using **Unity and C#**.
